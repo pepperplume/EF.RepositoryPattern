@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KhT/5+IfK48g98DQ8pz2EjdIjbRobVcaE9ikuVVVtlArJsJL9A2SdwRyrVuYwciRnDpq81N9g+w0egKfF12lXQ==",
+  "dgSpecHash": "Kc85Qgor58L9wXc9/IYh3fZdCbUyHcZHS10yTExi/eTMkvH21SV21MatPCaTmmrtYL9Vjw+BAI8XDg8dxs/43g==",
   "success": true,
   "projectFilePath": "C:\\Users\\peppe\\Documents\\GitHub\\EF.RepositoryPattern\\EF.RepositoryPattern\\EF.RepositoryPattern.csproj",
   "expectedPackageFiles": [
@@ -20,8 +20,6 @@
     "C:\\Users\\peppe\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.7\\microsoft.extensions.logging.abstractions.3.1.7.nupkg.sha512",
     "C:\\Users\\peppe\\.nuget\\packages\\microsoft.extensions.options\\3.1.7\\microsoft.extensions.options.3.1.7.nupkg.sha512",
     "C:\\Users\\peppe\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.7\\microsoft.extensions.primitives.3.1.7.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\peppe\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\peppe\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
     "C:\\Users\\peppe\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",

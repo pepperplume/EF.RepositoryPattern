@@ -1,0 +1,8 @@
+C:\Users\peppe\Documents\GitHub\EF.RepositoryPattern\EF.RepositoryPattern\bin\Debug\netstandard2.1\EF.RepositoryPattern.deps.json
+C:\Users\peppe\Documents\GitHub\EF.RepositoryPattern\EF.RepositoryPattern\bin\Debug\netstandard2.1\EF.RepositoryPattern.dll
+C:\Users\peppe\Documents\GitHub\EF.RepositoryPattern\EF.RepositoryPattern\bin\Debug\netstandard2.1\EF.RepositoryPattern.pdb
+C:\Users\peppe\Documents\GitHub\EF.RepositoryPattern\EF.RepositoryPattern\obj\Debug\netstandard2.1\EF.RepositoryPattern.AssemblyInfoInputs.cache
+C:\Users\peppe\Documents\GitHub\EF.RepositoryPattern\EF.RepositoryPattern\obj\Debug\netstandard2.1\EF.RepositoryPattern.AssemblyInfo.cs
+C:\Users\peppe\Documents\GitHub\EF.RepositoryPattern\EF.RepositoryPattern\obj\Debug\netstandard2.1\EF.RepositoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\peppe\Documents\GitHub\EF.RepositoryPattern\EF.RepositoryPattern\obj\Debug\netstandard2.1\EF.RepositoryPattern.dll
+C:\Users\peppe\Documents\GitHub\EF.RepositoryPattern\EF.RepositoryPattern\obj\Debug\netstandard2.1\EF.RepositoryPattern.pdb

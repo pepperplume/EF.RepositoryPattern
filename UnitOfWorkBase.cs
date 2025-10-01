@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace EF.RepositoryPattern
 {
@@ -19,6 +20,11 @@ namespace EF.RepositoryPattern
         public int Complete()
         {
             return _Context.SaveChanges();
+        }
+
+        public async Task<int> CompleteAsumc()
+        {
+            return await _Context.SaveChangesAsync();
         }
 
         public void Dispose()

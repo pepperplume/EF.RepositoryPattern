@@ -7,3 +7,14 @@ C:\Users\peppe\Documents\GitHub\EF.RepositoryPattern\EF.RepositoryPattern\obj\De
 C:\Users\peppe\Documents\GitHub\EF.RepositoryPattern\EF.RepositoryPattern\obj\Debug\netstandard2.1\EF.RepositoryPattern.dll
 C:\Users\peppe\Documents\GitHub\EF.RepositoryPattern\EF.RepositoryPattern\obj\Debug\netstandard2.1\EF.RepositoryPattern.pdb
 C:\Users\peppe\Documents\GitHub\EF.RepositoryPattern\EF.RepositoryPattern\obj\Debug\netstandard2.1\EF.RepositoryPattern.csprojAssemblyReference.cache
+C:\git\EF.RepositoryPattern\bin\Debug\netstandard2.1\EF.RepositoryPattern.deps.json
+C:\git\EF.RepositoryPattern\bin\Debug\netstandard2.1\EF.RepositoryPattern.dll
+C:\git\EF.RepositoryPattern\bin\Debug\netstandard2.1\EF.RepositoryPattern.pdb
+C:\git\EF.RepositoryPattern\obj\Debug\netstandard2.1\EF.RepositoryPattern.csproj.AssemblyReference.cache
+C:\git\EF.RepositoryPattern\obj\Debug\netstandard2.1\EF.RepositoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\EF.RepositoryPattern\obj\Debug\netstandard2.1\EF.RepositoryPattern.AssemblyInfoInputs.cache
+C:\git\EF.RepositoryPattern\obj\Debug\netstandard2.1\EF.RepositoryPattern.AssemblyInfo.cs
+C:\git\EF.RepositoryPattern\obj\Debug\netstandard2.1\EF.RepositoryPattern.csproj.CoreCompileInputs.cache
+C:\git\EF.RepositoryPattern\obj\Debug\netstandard2.1\EF.RepositoryPattern.sourcelink.json
+C:\git\EF.RepositoryPattern\obj\Debug\netstandard2.1\EF.RepositoryPattern.dll
+C:\git\EF.RepositoryPattern\obj\Debug\netstandard2.1\EF.RepositoryPattern.pdb
